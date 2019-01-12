@@ -2,6 +2,12 @@
 RoboMQ is RabbitMQ client wrapper-library for android base on [java library](http://www.rabbitmq.com/java-client.html)
 <br/>
 Forked from https://github.com/ziahaqi/RoboMQ
+
+compileSdkVersion 28 <br/>
+buildToolsVersion "28.0.3" <br/>
+minSdkVersion 26 <br/>
+targetSdkVersion 28 <br/>
+
 ## Usage
 - initiation  <br/>
 ```java
