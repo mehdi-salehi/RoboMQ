@@ -2,7 +2,7 @@ apply plugin: 'com.android.library'
 
 ext {
     bintrayRepo = 'maven'
-    bintrayName = 'Rabbit-EQ'
+    bintrayName = 'RoboMQ'
 
     publishedGroupId = 'ir.mehdisalehi.robomq'
     libraryName = 'RoboMQ'
